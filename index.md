@@ -45,7 +45,7 @@ EDUCATION
 ---------
 ### **Altran International Management Academy, Paris, France, 2011**
 
-Business Administration and Management
+Leadership, Business Administration and Management
 
 ### **University of Pisa, Pisa, Italy, 2000**
 
