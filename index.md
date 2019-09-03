@@ -13,54 +13,6 @@ EXECUTIVE SUMMARY
 
 Manager with a solid technical and commercial background in the field of information technology, engineering and R&D services. Leader in multicultural and distributed environments building business, products, technologies and teams. Entrepreneurial attitude with strategic vision and strong implementation capabilities, focused on people, results, quality and profitability.
 
-PROFESSIONAL EXPERIENCE
------------------------
-
-###  **HERE Technologies, Berlin, Germany, June 2019 - Present**
-**Engineering Manager**
-
-###  **HERE Technologies, Berlin, Germany, August 2016 - July 2019**
-**Solution Architecture Manager**
-
-###  **Altran, Tuscany, Italy, January 2015 - July 2016**
-**Technical Unit Manager**
-
-###  **Altran, Tuscany, Italy, July 2011 - January 2015**
-**Area Manager**
-
-###  **Altran, Tuscany, Italy, December 2008 - January 2015**
-**Senior Business Manager**
-
-###  **Altran, Tuscany, Italy, February 2002 - December 2008**
-**Senior Consultant**
-
-###  **Independent Contractor, Rome, Italy, September 2001 - February 2002**
-**Software Engineering Consultant**
-
-###  **LogObject AG, Zurich, Switzerland, December 2000 - November 2001**
-**Software Engineer**
-
-
-EDUCATION
----------
-### **Altran International Management Academy, Paris, France, 2011**
-
-Leadership, Business Administration and Management
-
-### **University of Pisa, Pisa, Italy, 2000**
-
-Master’s Degree in Computer Science and Engineering
-
-TRAINING
---------
-* Crucial Conversations, VitalSmarts.
-* Scrum Fundamentals Certified, SCRUMstudy.
-* Amazon Web Services Essential Training, Linkedin Learning
-* Behavior Based Interviewing, HERE University.
-* PMI Project Management, Sciaky Europe Business School.
-* Advanced training for effective negotiation techniques, Bridge Partners.
-* Complex Solution Selling and Co-constructive relationship, Co-construire Conseil.
-
 SKILLS
 ------
 **Areas of expertise**: Engineering Management, Systems Engineering, Software Engineering, Systems Architecture (embedded, mobile, cloud), Project Management, Profit and Loss Management, Business Management, Recruitment, People Management, Professional Services, Engineering consulting business models and markets.
