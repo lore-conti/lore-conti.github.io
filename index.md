@@ -21,10 +21,10 @@ PROFESSIONAL EXPERIENCE
 -----------------------
 
 ###  **HERE Technologies, Berlin, Germany, June 2019 - Present**
-### **Engineering Manager**
+**Engineering Manager**
 
 ###  **HERE Technologies, Berlin, Germany, August 2016 - July 2019**
-### **Solution Architecture Manager**
+**Solution Architecture Manager**
 
 ###  **Altran, Tuscany, Italy, January 2015 - July 2016**
 **Technical Unit Manager**
@@ -57,20 +57,13 @@ Master’s Degree in Computer Science and Engineering
 
 TRAINING
 --------
-
-Crucial Conversations, VitalSmarts.
-
-Scrum Fundamentals Certified, SCRUMstudy.
-
-Amazon Web Services Essential Training, Linkedin Learning
-
-Behavior Based Interviewing, HERE University.
-
-PMI Project Management, Sciaky Europe Business School.
-
-Advanced training for effective negotiation techniques, Bridge Partners.
-
-Complex Solution Selling and Co-constructive relationship, Co-construire Conseil.
+* Crucial Conversations, VitalSmarts.
+* Scrum Fundamentals Certified, SCRUMstudy.
+* Amazon Web Services Essential Training, Linkedin Learning
+* Behavior Based Interviewing, HERE University.
+* PMI Project Management, Sciaky Europe Business School.
+* Advanced training for effective negotiation techniques, Bridge Partners.
+* Complex Solution Selling and Co-constructive relationship, Co-construire Conseil.
 
 SKILLS
 ------
