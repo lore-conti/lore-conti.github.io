@@ -2,8 +2,8 @@
 
 ## Contact Information
 * Made in Pontedera, living in Berlin
-* Linkedin: http://www.linkedin.com/in/lorenzoconti
-* GitHub: https://github.com/lore-conti
+* [Linkedin](http://www.linkedin.com/in/lorenzoconti)
+* [GitHub](https://github.com/lore-conti)
 
 
 ![ICF Member Badge](https://images.credly.com/size/110x110/images/b51065dd-c199-4019-8c35-050d18e2a3a5/ICF_Member.png) 
