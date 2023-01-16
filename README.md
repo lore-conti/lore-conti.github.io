@@ -5,10 +5,12 @@
 * [Linkedin](http://www.linkedin.com/in/lorenzoconti)
 * [GitHub](https://github.com/lore-conti)
 
-
+![Official iPEC Ambassador](https://images.credly.com/size/110x110/images/47cf17ad-10b0-4ae1-982f-5539ec4535b1/image.png)
 ![ICF Member Badge](https://images.credly.com/size/110x110/images/b51065dd-c199-4019-8c35-050d18e2a3a5/ICF_Member.png) 
 ![Certified Professional Coach (CPC)](https://images.credly.com/size/110x110/images/bfb2da53-4632-43bd-9a87-ddf96b42655c/image.png) 
 ![Energy Leadership™ Index Master Practitioner (ELI-MP)](https://images.credly.com/size/110x110/images/b871241b-8583-4538-8faa-5b65676cf951/image.png)
+
+
 
 ## Executive Summary
 I am a technology executive who combines solid business acumen, technical experience, coaching and leadership skills to build global organizations, teams, solutions and businesses in the fields of Information Technology, Engineering and R&D Services.
