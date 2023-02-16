@@ -1,6 +1,4 @@
-# Lorenzo Conti
-
-## Contact Information
+# Contact Information
 * Made in Pontedera, living in Berlin
 * [Linkedin](http://www.linkedin.com/in/lorenzoconti)
 * [GitHub](https://github.com/lore-conti)
@@ -12,7 +10,7 @@
 
 
 
-## Executive Summary
+# Executive Summary
 I am a technology executive who combines solid business acumen, technical experience, coaching and leadership skills to build global organizations, teams, solutions and businesses in the fields of Information Technology, Engineering and R&D Services.
 
 With deep knowledge and experience across many industries, domains, and delivery models, I connect customers, business solutions and engineering to translate strategies into execution and transform needs into consistent architectures and profitable technical solutions.
@@ -21,7 +19,7 @@ I'm pragmatic in the short-term and visionary in the long-term. I'm a technology
 
 I'm always looking to grow my personal and professional network. Feel free to connect via LinkedIn.
 
-## Skills
+# Skills
 * Professional Coaching
 * Agile Leadership
 * Team and People Development
@@ -37,7 +35,7 @@ I'm always looking to grow my personal and professional network. Feel free to co
 * Strategic Planning and Management
 * Engineering consulting business models and markets
 
-## Main Industries
+# Main Industries
 * Automotive
 * Connected Vehicle Services
 * Autonomous Driving
