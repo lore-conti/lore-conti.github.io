@@ -1,7 +1,4 @@
-* Made in Pontedera, living in Berlin
-* [Linkedin](http://www.linkedin.com/in/lorenzoconti)
-* [GitHub](https://github.com/lore-conti)
-
+Made in Pontedera, living in Berlin
 
 I am a technology executive passionate about building successful organizations and helping teams and people achieve their goals. I leverage my solid business acumen, technical expertise, and leadership skills to create global organizations, teams, solutions, and businesses in the fields of Information Technology, Engineering, and R&D Services.
 
@@ -11,6 +8,8 @@ Through my expertise in leadership coaching, business, and technology, I bring a
 
 As a technology-agnostic leader, I believe that technology is an enabler that can improve people’s lives, and I am committed to using my coaching and leadership skills to help organizations achieve their goals while positively impacting the world around us.
 
+* [LinkedIn](http://www.linkedin.com/in/lorenzoconti)
+* [GitHub](https://github.com/lore-conti)
 
 ![Certified Professional Coach (CPC)](https://images.credly.com/size/110x110/images/bfb2da53-4632-43bd-9a87-ddf96b42655c/image.png) 
 ![Energy Leadership™ Index Master Practitioner (ELI-MP)](https://images.credly.com/size/110x110/images/b871241b-8583-4538-8faa-5b65676cf951/image.png)
