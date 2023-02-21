@@ -1,6 +1,6 @@
 Made in Pontedera, living in Berlin
 
-I am a technology executive passionate about building successful organizations and helping teams and people achieve their goals. I leverage my solid business acumen, technical expertise, and leadership skills to create global organizations, teams, solutions, and businesses in the fields of Information Technology, Engineering, and R&D Services.
+I am a technology executive passionate about building successful organizations and helping teams and people achieve their goals. I leverage my business acumen, technical expertise, and leadership skills to create global organizations, teams, solutions, and businesses in the fields of Information Technology, Engineering, and R&D Services.
 
 With extensive knowledge and experience across various domains, industries, and delivery models, I connect customers, business solutions, and engineering to translate strategies into execution and transform needs into consistent architectures and profitable technical solutions.
 
