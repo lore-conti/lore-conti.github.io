@@ -1,43 +1,52 @@
 Made in Pontedera, living in Berlin
 
-I am a technology executive passionate about building successful organizations and helping teams and people achieve their goals. I leverage my business acumen, technical expertise, and leadership skills to create global organizations, teams, solutions, and businesses in the fields of Information Technology, Engineering, and R&D Services.
+I’m a technology executive with two decades of experience leading global teams and delivering transformational results across Information Technology, Engineering, and R&D Services. I'm passionate about building successful organizations and helping teams and individuals achieve their goals—both through the power of technology and the potential of people.
 
-With extensive knowledge and experience across various domains, industries, and delivery models, I connect customers, business solutions, and engineering to translate strategies into execution and transform needs into consistent architectures and profitable technical solutions.
+With deep cross-industry expertise and a strong foundation in business, technology, and leadership, I’ve built and scaled global organizations, connected strategy to execution, and translated complex needs into consistent architectures and profitable solutions. I thrive at the intersection of customers, business, and engineering—ensuring that solutions not only work, but work for people.
 
-Through my expertise in leadership coaching, business, and technology, I bring a powerful tool to individuals and teams to unlock their potential, fostering confidence and empowering them to discover new possibilities for success, approach challenges with confidence and resilience, and uncover their unique talents and abilities.
+I’m also a certified executive coach, and I bring that mindset into everything I do. I help teams unlock confidence, resilience, and creativity—fostering cultures where people can grow, contribute, and lead with purpose.
 
-As a technology-agnostic leader, I believe that technology is an enabler that can improve people’s lives, and I am committed to using my coaching and leadership skills to help organizations achieve their goals while positively impacting the world around us.
+Technology is not the goal—it’s the enabler. As a technology-agnostic leader, I believe in using the right tools to make a real difference. Whether guiding organizations through change, architecting impactful solutions, or coaching leaders to new heights, I’m driven by a simple mission: empower people, create value, and make a positive impact on the world.
 
 * [LinkedIn](http://www.linkedin.com/in/lorenzoconti)
 * [GitHub](https://github.com/lore-conti)
 
-![Certified Professional Coach (CPC)](https://images.credly.com/size/110x110/images/bfb2da53-4632-43bd-9a87-ddf96b42655c/image.png) 
-![Energy Leadership™ Index Master Practitioner (ELI-MP)](https://images.credly.com/size/110x110/images/b871241b-8583-4538-8faa-5b65676cf951/image.png)
-![Official iPEC Ambassador](https://images.credly.com/size/110x110/images/47cf17ad-10b0-4ae1-982f-5539ec4535b1/image.png)
-![ICF Member Badge](https://images.credly.com/size/110x110/images/b51065dd-c199-4019-8c35-050d18e2a3a5/ICF_Member.png) 
+# Professional Experience
+* 2023 - Pres: Leadership Boot, Germany, Managing Partner
+* 2019 - Pres: HERE Technologies, Germany, Director of Engineering - Professional Services
+* 2016 - 2019: HERE Technologies, Germany, Head of Solutions Architecture - Automotive Solution Engineering
+* 2015 - 2016: Altran (now Capgemini Engineering), Italy, Head of Technical Unit
+* 2008 - 2015: Altran (now Capgemini Engineering), Italy, Head of Regional Business Unit  
+* 2002 - 2008: Altran (now Capgemini Engineering), Italy, Senior Consultant  
 
+# Education and Certifications
+* Master’s Degree in Computer Engineering, University of Pisa, Italy
+* Business Development, Administration and Management, Altran IMA, France
+* Certified Agile Leader, Scrum Alliance
+* Associate Certified Coach (ACC), International Coaching Federation (ICF)
+* Certified Executive Coach, Institute for Professional Excellence in Coaching (iPEC)
+* Digital Transformation for Leaders, LinkedIn
+* Mastering Project Management, Sciaky Europe Business School
 
 # Competencies
-* Professional Coaching
-* Agile Leadership
-* Team and People Development
-* Engineering Management
 * Software Engineering
-* Systems Architecture
+* Digital Transformation
+* Solutions Architecture
 * Project Management
-* Quality Management System
-* Profit and Loss Management
-* Business Development
+* Operational Excellence
+* P&L Management
 * Professional Services
-* Strategic Planning and Management
-* Engineering consulting business models and markets
+* Engineering Consulting
+* People Development
+* Executive Coaching
 
 # Main Industries
 * Automotive
-* Connected Vehicle Services
-* Autonomous Driving
-* Transportation and Logistic
 * Defense
-* Space
 * Railway
+* Space
+* Transportation and Logistics
+* Information and Communication Technology
 * ICT
+
+* 
