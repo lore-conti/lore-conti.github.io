@@ -1,4 +1,4 @@
-Made in Pontedera, living in Berlin
+# Made in Pontedera, living in Berlin
 
 I’m a technology executive with two decades of experience leading global teams and delivering transformational results across Information Technology, Engineering, and R&D Services. I'm passionate about building successful organizations and helping teams and individuals achieve their goals—both through the power of technology and the potential of people.
 
@@ -48,5 +48,3 @@ Technology is not the goal—it’s the enabler. As a technology-agnostic leader
 * Transportation and Logistics
 * Information and Communication Technology
 * ICT
-
-* 
